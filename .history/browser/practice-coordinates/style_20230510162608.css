@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: #393646;
+}
+
+.x {
+  color: white;
+}
+
+.coordinates {
+  color: white;
+  font-size: 30px;
+  font-family: 'Times New Romans';
+}
