@@ -3,7 +3,7 @@ const horizontal = document.querySelector('.horizontal');
 const target = document.querySelector('.target');
 const tag = document.querySelector('.tag');
 
-// when the window loads call getBoundingClientRect()
+// when the window load everything
 addEventListener('load', () => {
   const targetRect = target.getBoundingClientRect();
   const targetHalfWidth = targetRect.width / 2;

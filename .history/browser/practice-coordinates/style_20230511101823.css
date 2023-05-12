@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
 
 body {
-  margin: 0;
   background-color: #c0dbea;
 }
 
@@ -28,6 +27,7 @@ body {
 .tag {
   position: absolute;
   color: white;
+  transform: translate(20px, 20px);
   font-size: 30px;
   font-family: Alice;
 }
